@@ -12,9 +12,9 @@
     text-decoration: none;
 }
 
-body[
+body{
     font-family: openSans, Arial, Helvetica, sans-serif
-]
+}
 
 .container{
     width: 200px;
